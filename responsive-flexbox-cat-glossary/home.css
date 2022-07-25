@@ -44,6 +44,7 @@ img {
     padding: 1%;
 }
 footer {
+    color: orange;
     border-top: 2px solid orange;
     background-color: rgba(24, 24, 24, 0.986);
 }
